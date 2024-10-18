@@ -29,6 +29,11 @@
           "name": "Toyota",
           "model": "Huracan 2",
           "image": "https://images.pexels.com/photos/810357/pexels-photo-810357.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        {
+          "name": "Ford",
+          "model": "i8",
+          "image": "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
         }
       ]
 }
